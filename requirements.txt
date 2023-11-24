@@ -1,0 +1,5 @@
+MedPy==0.4.0
+pylidc==0.2.1
+tqdm==4.42.1
+cuda==10.1.12
+tensorflow==2.3.0
